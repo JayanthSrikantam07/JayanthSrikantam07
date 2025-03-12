@@ -20,7 +20,7 @@
 ## <img src="./assets/about_me.gif" width="50px"> About me
 
 <div align="center">
-    <img align="right" src="./assets/Right_Side.gif" width="350px">
+    <img align="right" src="./Right_Side.gif" width="350px">
 </div>
 "A passionate Software Engineer with 4 years of hands-on experience and a Master’s in Information Science from Texas A&M University, Commerce, eager to innovate and solve complex problems."
 
