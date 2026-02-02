@@ -22,7 +22,7 @@
 <div align="center">
     <img align="right" src="./Right_Side.gif" width="350px">
 </div>
-"A passionate Java Full Stack Developer with 6 years of hands-on experience and a Master’s in Information Science from Texas A&M University, Commerce, eager to innovate and solve complex problems."
+"A passionate Java Full Stack Developer with hands-on experience and a Master’s in Information Science from Texas A&M University, Commerce, eager to innovate and solve complex problems."
 
 ### Skills 🚀</b>
 
